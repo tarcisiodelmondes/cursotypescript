@@ -5,7 +5,7 @@ const a = 100;
 
 const person = {
   name: 'Tarcisio' as const,
-  lastname: 'Delmondes',
+  lastName: 'Delmondes',
 };
 
 function choiceColor(cor: 'RED' | 'YELLOW' | 'BLUE') {
