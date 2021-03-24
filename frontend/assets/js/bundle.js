@@ -2,10 +2,10 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/A0019-exercicio/form-control.ts":
-/*!*********************************************!*\
-  !*** ./src/A0019-exercicio/form-control.ts ***!
-  \*********************************************/
+/***/ "./src/A0019-exercise/form-control.ts":
+/*!********************************************!*\
+  !*** ./src/A0019-exercise/form-control.ts ***!
+  \********************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
 
@@ -665,12 +665,12 @@ var __webpack_exports__ = {};
 // This entry need to be wrapped in an IIFE because it need to be isolated against other modules in the chunk.
 (() => {
 var exports = __webpack_exports__;
-/*!**************************************!*\
-  !*** ./src/A0019-exercicio/index.ts ***!
-  \**************************************/
+/*!*************************************!*\
+  !*** ./src/A0019-exercise/index.ts ***!
+  \*************************************/
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-__webpack_require__(/*! ./form-control */ "./src/A0019-exercicio/form-control.ts");
+__webpack_require__(/*! ./form-control */ "./src/A0019-exercise/form-control.ts");
 
 })();
 
